@@ -1,7 +1,7 @@
 <h2> Diego "Karmaikow" Santana. </h2>
 
 # 💫 About Me:
-🔭 Front-end Developer in construction<br><br><br>🌱 Always seeking knowledge<br><br><br>⚡ To infinity and beyond!
+🔭 Front-end Developer<br><br><br>🌱 Always seeking knowledge<br><br><br>⚡ To infinity and beyond!
 
 
 ## 🌐 Socials:
